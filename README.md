@@ -30,7 +30,7 @@ Wireframes can be categorized into two types:
   - Include realistic representations of UI elements.
   - Useful for stakeholder presentations and usability testing.
 
-**Types of wireframes**  
+**Types of Wireframes**  
 For this project, we are creating **low-fidelity wireframes** to allow rapid iteration and review before moving to prototypes.
 
 ---
